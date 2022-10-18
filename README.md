@@ -43,6 +43,12 @@ sudo docker-compose exec web python manage.py loaddata fixtures.json
 
 ![status workflow](https://github.com/DK0894/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
+### Адрес сервера
+
+1) http://51.250.106.249/api/v1/
+2) http://51.250.106.249/admin
+3) http://51.250.106.249/redoc
+
 ### MIT License
 
 Copyright (c) 2022 Denis Kudakov
